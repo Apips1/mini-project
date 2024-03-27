@@ -4,7 +4,7 @@ import Img from '@/assets/images/auth.png'
 </script>
 <template>
   <main class="flex justify-center bg-foreground-primary text-white min-h-screen">
-    <section class="w-1/3 py-10 px-10 h-full">
+    <section class="w-1/2 py-10 px-10 h-full">
       <div class="mb-16">
         <div class="text-3xl font-semibold">Welcome Back 👋</div>
         <div class="text-white">We are happy to have you back</div>
